@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    outline: 5px solid brown;
+}
+#about{
+    /* margin-left:auto; */
+}
+
+#logout{
+    margin-left: auto;
+}
